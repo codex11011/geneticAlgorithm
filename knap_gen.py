@@ -1,7 +1,4 @@
-# Team member
-# 16ucs218 - Sankalp Wakodikar
-# 16ucs182 - Shubham Sharma
-# 16ucs113 - Mukul Agrawal
+
 
 import numpy as np
 import random
